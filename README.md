@@ -6,7 +6,7 @@
 
 ## 🌎 🔎
 
-- [Gatsby Wordpress](https://github.com/GatsbyJS-Indonesia/Roadmap-GatsbyJS-ID/edit/main/README.md)
-- [Gatsby Sanity.io](https://github.com/GatsbyJS-Indonesia/Roadmap-GatsbyJS-ID/edit/main/README.md)
-- [Gatsby Auth](https://github.com/GatsbyJS-Indonesia/Roadmap-GatsbyJS-ID/edit/main/README.md)
+- [Gatsby Wordpress](https://github.com/GatsbyJS-Indonesia/Roadmap-GatsbyJS-ID)
+- [Gatsby Sanity.io](https://github.com/GatsbyJS-Indonesia/Roadmap-GatsbyJS-ID)
+- [Gatsby Auth](https://github.com/GatsbyJS-Indonesia/Roadmap-GatsbyJS-ID)
 
