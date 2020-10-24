@@ -6,7 +6,6 @@
 
 ## 🌎 🔎
 
-- [Gatsby Wordpress](https://github.com/GatsbyJS-Indonesia/Roadmap-GatsbyJS-ID)
+- [Gatsby Wordpress](https://github.com/GatsbyJS-Indonesia/Gatsby-Wordpress)
 - [Gatsby Sanity.io](https://github.com/GatsbyJS-Indonesia/Sanity-Gatsby-Blog)
-- [Gatsby Auth](https://github.com/GatsbyJS-Indonesia/Roadmap-GatsbyJS-ID)
 
