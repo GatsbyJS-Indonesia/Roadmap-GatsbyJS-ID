@@ -1,5 +1,3 @@
-# Roadmap-GatsbyJS-ID
-
 <h2 align="center">
     Hi rekans 👋, Repository ini sebagai roadmap berbagai macam aplikasi menggunakan Gatsby JS yang dibuat oleh komunitas Gatsby Indonesia 
 </h2>
